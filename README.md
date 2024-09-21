@@ -8,4 +8,4 @@ PHP web front-end for the OpenGL ES hardware capability database located at http
 Some security related files are obviously not included
 
 # Legal
-OpenGL is a registered trademark and the OpenGL ES logo is a trademark of Silicon Graphics Inc. used by permission by Khronos.
+OpenGL is a registered trademark and the OpenGL ES logo is a trademark of Hewlett Packard Enterprise used under license by Khronos.
